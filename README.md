@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola! 👋
+Mi nombre es Natalia y soy desarrolladora frontend ✨
+
+- 🌱 Actualmente estoy estudiando desarrollo backend
+- 📫 Podés contactarme por [LinkedIn](https://www.linkedin.com/in/natalia-galvan/) o por [mail](mailto:natalia.a.galvan@gmail.com)
+- ⚡ Fun fact: También soy traductora pública en idioma inglés 
 
 <!--
 **natigalvan/natigalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
